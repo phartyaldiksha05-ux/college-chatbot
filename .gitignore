@@ -1,7 +1,8 @@
-node_modules/
 .env
-__pycache__/
-*.pyc
 venv/
-.env.local
+__pycache__/
+node_modules/
+faiss_index/
+*.pyc
+*.pyo
 .DS_Store
