@@ -1,0 +1,153 @@
+{
+  "departments": [
+    {
+      "name": "Computer Science and Engineering",
+      "short": "CSE",
+      "hod": "Prof. (Dr.) [HOD Name]",
+      "contact": "cse@gbpiet.ac.in",
+      "phone": "01368-228030",
+      "research_areas": ["Machine Learning", "Data Mining", "Network Security"],
+      "students": "480",
+      "faculty": "18"
+    },
+    {
+      "name": "Computer Science and Applications",
+      "short": "CSA",
+      "hod": "Prof. (Dr.) [HOD Name]",
+      "contact": "csa@gbpiet.ac.in",
+      "phone": "01368-228030",
+      "research_areas": ["Software Engineering", "Database Systems", "Web Technologies"],
+      "students": "180",
+      "faculty": "10"
+    },
+    {
+      "name": "Electronics and Communication Engineering",
+      "short": "ECE",
+      "hod": "Prof. (Dr.) [HOD Name]",
+      "contact": "ece@gbpiet.ac.in",
+      "phone": "01368-228030",
+      "research_areas": ["VLSI Design", "Signal Processing", "Embedded Systems"],
+      "students": "360",
+      "faculty": "16"
+    },
+    {
+      "name": "Electrical Engineering",
+      "short": "EE",
+      "hod": "Prof. (Dr.) [HOD Name]",
+      "contact": "ee@gbpiet.ac.in",
+      "phone": "01368-228030",
+      "research_areas": ["Power Systems", "Control Systems", "Renewable Energy"],
+      "students": "240",
+      "faculty": "12"
+    },
+    {
+      "name": "Mechanical Engineering",
+      "short": "ME",
+      "hod": "Prof. (Dr.) [HOD Name]",
+      "contact": "me@gbpiet.ac.in",
+      "phone": "01368-228030",
+      "research_areas": ["CAD/CAM", "Thermal Engineering", "Manufacturing"],
+      "students": "360",
+      "faculty": "15"
+    },
+    {
+      "name": "Civil Engineering",
+      "short": "CE",
+      "hod": "Prof. (Dr.) [HOD Name]",
+      "contact": "civil@gbpiet.ac.in",
+      "phone": "01368-228030",
+      "research_areas": ["Structural Engineering", "Environmental Engineering"],
+      "students": "240",
+      "faculty": "12"
+    },
+    {
+      "name": "Biotechnology",
+      "short": "BT",
+      "hod": "Prof. (Dr.) [HOD Name]",
+      "contact": "biotech@gbpiet.ac.in",
+      "phone": "01368-228030",
+      "research_areas": ["Genetic Engineering", "Bioinformatics", "Microbiology"],
+      "students": "120",
+      "faculty": "8"
+    },
+    {
+      "name": "Applied Sciences and Humanities",
+      "short": "ASH",
+      "hod": "Prof. (Dr.) [HOD Name]",
+      "contact": "ash@gbpiet.ac.in",
+      "phone": "01368-228030",
+      "research_areas": ["Mathematics", "Physics", "Chemistry", "English"],
+      "students": "0",
+      "faculty": "20"
+    }
+  ],
+  "courses": {
+    "undergraduate": [
+      {
+        "name": "B.Tech Computer Science and Engineering",
+        "duration": "4 Years",
+        "seats": "120",
+        "fees": "Rs. 95,000 - 1,10,000/year",
+        "eligibility": "12th PCM + JEE Main"
+      },
+      {
+        "name": "B.Tech Electronics and Communication",
+        "duration": "4 Years",
+        "seats": "60",
+        "fees": "Rs. 95,000 - 1,10,000/year",
+        "eligibility": "12th PCM + JEE Main"
+      },
+      {
+        "name": "B.Tech Electrical Engineering",
+        "duration": "4 Years",
+        "seats": "60",
+        "fees": "Rs. 95,000 - 1,10,000/year",
+        "eligibility": "12th PCM + JEE Main"
+      },
+      {
+        "name": "B.Tech Mechanical Engineering",
+        "duration": "4 Years",
+        "seats": "60",
+        "fees": "Rs. 95,000 - 1,10,000/year",
+        "eligibility": "12th PCM + JEE Main"
+      },
+      {
+        "name": "B.Tech Civil Engineering",
+        "duration": "4 Years",
+        "seats": "60",
+        "fees": "Rs. 95,000 - 1,10,000/year",
+        "eligibility": "12th PCM + JEE Main"
+      },
+      {
+        "name": "B.Tech Biotechnology",
+        "duration": "4 Years",
+        "seats": "30",
+        "fees": "Rs. 95,000 - 1,10,000/year",
+        "eligibility": "12th PCB/PCM + JEE Main"
+      }
+    ],
+    "postgraduate": [
+      {
+        "name": "MCA",
+        "duration": "2 Years",
+        "seats": "60",
+        "fees": "Rs. 70,000/year",
+        "eligibility": "BCA/B.Sc/B.Tech + NIMCET/State CET"
+      },
+      {
+        "name": "M.Tech CSE",
+        "duration": "2 Years",
+        "seats": "18",
+        "fees": "Rs. 60,000/year",
+        "eligibility": "B.Tech + GATE"
+      },
+      {
+        "name": "M.Tech ECE",
+        "duration": "2 Years",
+        "seats": "18",
+        "fees": "Rs. 60,000/year",
+        "eligibility": "B.Tech + GATE"
+      }
+    ]
+  }
+}
